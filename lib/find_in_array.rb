@@ -3,8 +3,8 @@ def find_element_index(array, value_to_find)
   while (counter < array.length) do 
     if array[counter] == value_to_find
       return array.index(value_to_find)
-    else 
-     return "blue"
+    else do
+     return 
       
 end
 counter = counter + 1
